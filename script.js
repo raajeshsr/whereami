@@ -43,7 +43,7 @@ const getLocationCoords = function () {
   });
 };
 
-const whereAmI = function (latitude, longitude) {
+const whereAmI = function () {
   getLocationCoords()
     .then(coords => {
       const { latitude, longitude } = coords;
