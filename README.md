@@ -18,3 +18,6 @@ API used
 
 3.third party api to get country details  
 
+PERMISSION REQUIRED TO RUN THE APP
+
+location access
