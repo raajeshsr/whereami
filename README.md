@@ -10,13 +10,16 @@ This application is created to get familiar with asynchronouse javascript like c
 and handling the errors
 
 
-API used 
+API USED
+
 
 1.browser's geolocation api to get coordinates
 
 2.third party reverse geolocation api to get country name based on coordinates
 
 3.third party api to get country details  
+
+
 
 PERMISSION REQUIRED TO RUN THE APP
 
